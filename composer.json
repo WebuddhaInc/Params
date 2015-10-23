@@ -1,0 +1,23 @@
+{
+  "name": "WebuddhaInc/Params",
+  "description": "PHP Parameters Class",
+  "keywords": [
+    "php",
+    "parameters"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David Hunt"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "files": [
+      "src/Params.php"
+    ]
+  }
+}
