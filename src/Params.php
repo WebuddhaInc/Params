@@ -93,6 +93,7 @@ class Params {
     foreach( $data AS $key => $val ){
       $this->set( $key, $val );
     }
+    return $this;
   }
 
 }
